@@ -6,3 +6,5 @@ This is mainly categorised into 3 types <br>
 1. Websites, blogs and github links <br>
 2. Youtube Channels and videos from different sources <br>
 3. Books <br>
+
+[Awesome-datascience](https://github.com/academic/awesome-datascience)
