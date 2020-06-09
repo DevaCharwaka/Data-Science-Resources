@@ -14,4 +14,8 @@ This is mainly categorised into 3 types <br>
 
 [AdiBro/Data Science - github](https://github.com/AdiBro/Data-Science-Resources) <br>
 
-[Wes McKinney](https://wesmckinney.com/archives.html)
+[Wes McKinney](https://wesmckinney.com/archives.html) <br>
+
+[Matthew Russell](https://miningthesocialweb.com/)<br>
+
+
