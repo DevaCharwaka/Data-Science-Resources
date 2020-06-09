@@ -12,4 +12,6 @@ This is mainly categorised into 3 types <br>
 
 [Boulder Data Science](http://boulderdatascience.github.io/data-science-resources/) <br>
 
-[AdiBro/Data Science - github](https://github.com/AdiBro/Data-Science-Resources)
+[AdiBro/Data Science - github](https://github.com/AdiBro/Data-Science-Resources) <br>
+
+[Wes McKinney](https://wesmckinney.com/archives.html)
