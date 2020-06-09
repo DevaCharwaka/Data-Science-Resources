@@ -18,4 +18,6 @@ This is mainly categorised into 3 types <br>
 
 [Matthew Russell](https://miningthesocialweb.com/)<br>
 
+[Greg Reda](http://www.gregreda.com/)
+
 
